@@ -21,7 +21,7 @@ I'm a passionate and slightly crazy **Fullstack Developer** 🚀 with experience
 
 | Frontend | Backend | Databases | Others |
 | -------- | ------- | --------- | ------ |
-| React, Redux, Vue, Next.js, Angular, HTML, CSS, SASS, Bootstrap, TailwindCSS | Node.js, Express.js, REST APIs, GraphQL, FastAPI, Django, Flask | MongoDB, PostgreSQL, MySQL | Git, Docker, AWS, Jest, CI/CD |
+| React, Redux, Vue, Next.js, Angular, HTML, CSS, SASS, Bootstrap, TailwindCSS, Material-UI | Node.js, Express.js, REST APIs, GraphQL, FastAPI, Django, Flask | MongoDB, PostgreSQL, MySQL | Git, Docker, AWS, Jest, CI/CD |
 
 ---
 
